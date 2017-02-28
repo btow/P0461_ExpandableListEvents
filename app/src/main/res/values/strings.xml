@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExpandableListEvents</string>
+    <!--названия компаний (групп)-->
+    <string-array name="groups">
+        <item>HTC</item>
+        <item>Samsung</item>
+        <item>LG</item>
+    </string-array>
+    <!--названия телефонов (элементов групп)-->
+    <string-array name="phonesHTC">
+        <item>--- Sensation</item>
+        <item>--- Desire</item>
+        <item>--- Wildfire</item>
+        <item>--- Hero</item>
+    </string-array>
+    <string-array name="phonesSams">
+        <item>--- Galaxy S II</item>
+        <item>--- Galaxy Nexus</item>
+        <item>--- Wave</item>
+    </string-array>
+    <string-array name="phonesLG">
+        <item>--- Optimus</item>
+        <item>--- Optimus Link</item>
+        <item>--- Optimus Black</item>
+        <item>--- Optimus One</item>
+    </string-array>
+</resources>
